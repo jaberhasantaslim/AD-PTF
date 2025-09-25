@@ -1,6 +1,6 @@
 # AD-PTF: Active Directory Penetration Testing Framework
 
-![Python](https://img.shields.io/badge/python-3.6%2B-blue)
+![Python](https://img.shields.io/badge/python-3.0%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![GitHub Stars](https://img.shields.io/github/stars/jaberhasantaslim/AD-PTF)
 ![GitHub Issues](https://img.shields.io/github/issues/jaberhasantaslim/AD-PTF)
@@ -13,7 +13,7 @@
 / /   \ \| |_/ /     | |___  | |_| |  | |___   | |_| |  | |___   | |_| |
 \/     \/|____/      |_____|  \___/   |_____|   \_____/  |_____|  \_____/
                                                                         
-Active Directory Penetration Testing Framework v2.0
+Active Directory Penetration Testing Framework v1.0
 Author: Jaber Hasan
 ```
 
