@@ -39,7 +39,7 @@ Author: Jaber Hasan
 ## Requirements
 
 - **Operating System**: Linux (tested on Kali Linux)
-- **Python**: 3.6 or higher
+- **Python**: 3.0 or higher
 - **System Dependencies**:
   - Binaries: `masscan`, `nmap`, `ldapsearch`, `smbclient`, `rpcclient`, `hydra`, `proxychains`, `hashcat`, `go`, `ruby`, `wine`, `wine32`
   - Git Repositories: `impacket`, `PlumHound`, `Responder`, `windapsearch`, `CVE-2020-1472`, `PetitPotam`, `CVE-2021-1675`, `noPac`, `Rubeus`, `CrackMapExec`
