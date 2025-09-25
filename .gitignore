@@ -1,0 +1,36 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Logs & databases
+*.log
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test & coverage outputs
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# Local configs
+*.local
+
